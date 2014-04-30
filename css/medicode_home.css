@@ -14,22 +14,24 @@ nav #logo {
 }
 
 nav #text {
-	background-color: yellow;
 	display: inline-block;
 	float: left;
+	font-family: 'Syncopate', sans-serif, bold;
+	color: white;
 }
 
-body .sign-up-buttons {
+.main div {
 	text-align: center;
 	width: 80%;
 	margin-left: 10%;
 	margin-right: 10%;
-	height: 500px;
 	background-color: red;
+	font-family: Arial;
 }
 
 button {
 	text-align: center;
 	background-color: green;
 	width: 300px;
+	margin: 0;
 }
